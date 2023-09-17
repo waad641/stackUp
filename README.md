@@ -37,5 +37,5 @@ The user interface is designed with a vision-friendly and user-friendly approach
 
     -High contrast between text and background for better readability.
     -Responsive design for various screen sizes.
-   - Pastel colors and a light gray background for a pleasant appearance.
+    -Pastel colors and a light gray background for a pleasant appearance.
     -Proper spacing and font choices for improved usability.

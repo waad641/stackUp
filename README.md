@@ -20,7 +20,7 @@ This is a simple web application for an online store where you can add and view 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/waad641/online-store-web-app.git
+   git clone https://github.com/waad641/stackUp.git
 
    
 2. Navigate to the project directory:

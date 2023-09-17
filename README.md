@@ -28,7 +28,9 @@ This is a simple web application for an online store where you can add and view 
 3. Open the index.html file in your web browser to run the application.
 
 User Interface:
-The application has a user-friendly interface with clear labels and input fields for adding products. The product list is displayed in a neat format with the product name, price, and quantity. 
+
+    The application has a user-friendly interface with clear labels and input fields for adding products. The product list is displayed in a neat format with the product name, price, 
+    and quantity. 
 
 
 Styling:
